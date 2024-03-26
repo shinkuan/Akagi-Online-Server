@@ -1,0 +1,5 @@
+torch
+numpy
+flask
+--find-links https://github.com/shinkuan/Akagi/releases/expanded_assets/v0.1.1-libriichi
+riichi>=0.1.1
